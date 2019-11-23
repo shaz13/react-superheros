@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=VT323&display=swap');
+
 .App {
   text-align: center;
+  font-family: 'VT323', monospace;
+
 }
 
 .App-logo {
@@ -19,4 +23,18 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+body{
+  background-color: black;
+  color: greenyellow;
+  font-family: 'VT323', monospace;
+  font-size: 30px;
+  letter-spacing: 2px;
+  
+}
+.parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
