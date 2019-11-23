@@ -1,2 +1,1 @@
-# react-superheros
-Data science guy learning react for fun. Making Marvel super hero app in pursuit...
+## React Superheros
