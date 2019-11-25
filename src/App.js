@@ -23,10 +23,9 @@ class App extends Component {
       hero.name.toLowerCase().includes(searchField.toLowerCase())
     );
 
-    // eslint-disable-next-line no-unused-expressions
     return (
       <div className="App">
-      <h1>Enhanced Humans Database</h1>
+        <h1>Enhanced Humans Database</h1>
         <SearchBox
           placeholder="Search Characters"
           handleChange={e => this.setState({ searchField: e.target.value })}
