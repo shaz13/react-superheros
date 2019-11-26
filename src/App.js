@@ -25,7 +25,7 @@ class App extends Component {
 
     return (
       <div className="App">
-        <h1>Enhanced Humans Database</h1>
+        <h1>React Supers</h1>
         <SearchBox
           placeholder="Search Characters"
           handleChange={e => this.setState({ searchField: e.target.value })}
