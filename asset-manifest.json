@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.a0dd50bf.chunk.css",
-    "main.js": "/static/js/main.f41d8ae4.chunk.js",
-    "main.js.map": "/static/js/main.f41d8ae4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.86329e1c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.86329e1c.js.map",
-    "static/js/2.c5eb0419.chunk.js": "/static/js/2.c5eb0419.chunk.js",
-    "static/js/2.c5eb0419.chunk.js.map": "/static/js/2.c5eb0419.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9b7d99f2eefa217f557b64ea3b256909.js": "/precache-manifest.9b7d99f2eefa217f557b64ea3b256909.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.a0dd50bf.chunk.css.map": "/static/css/main.a0dd50bf.chunk.css.map"
+    "main.css": "/react-superheros/static/css/main.a0dd50bf.chunk.css",
+    "main.js": "/react-superheros/static/js/main.bbec59f9.chunk.js",
+    "main.js.map": "/react-superheros/static/js/main.bbec59f9.chunk.js.map",
+    "runtime-main.js": "/react-superheros/static/js/runtime-main.1e50cb4c.js",
+    "runtime-main.js.map": "/react-superheros/static/js/runtime-main.1e50cb4c.js.map",
+    "static/js/2.c5eb0419.chunk.js": "/react-superheros/static/js/2.c5eb0419.chunk.js",
+    "static/js/2.c5eb0419.chunk.js.map": "/react-superheros/static/js/2.c5eb0419.chunk.js.map",
+    "index.html": "/react-superheros/index.html",
+    "precache-manifest.9f3fa3cdb8c901887c7c294cd3a3a2bb.js": "/react-superheros/precache-manifest.9f3fa3cdb8c901887c7c294cd3a3a2bb.js",
+    "service-worker.js": "/react-superheros/service-worker.js",
+    "static/css/main.a0dd50bf.chunk.css.map": "/react-superheros/static/css/main.a0dd50bf.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.86329e1c.js",
+    "static/js/runtime-main.1e50cb4c.js",
     "static/js/2.c5eb0419.chunk.js",
     "static/css/main.a0dd50bf.chunk.css",
-    "static/js/main.f41d8ae4.chunk.js"
+    "static/js/main.bbec59f9.chunk.js"
   ]
 }
